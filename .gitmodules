@@ -1,0 +1,39 @@
+[submodule "dynamorio"]
+	path = dynamorio
+	url = https://github.com/DynamoRIO/dynamorio
+[submodule "drmemory"]
+	path = drmemory
+	url = https://github.com/DynamoRIO/drmemory
+[submodule "functrace"]
+	path = functrace
+	url = https://github.com/invictus1306/functrace
+[submodule "DrSemu"]
+	path = DrSemu
+	url = https://github.com/secrary/DrSemu
+[submodule "DynDataResolver"]
+	path = DynDataResolver
+	url = https://github.com/Cisco-Talos/DynDataResolver
+[submodule "selfie"]
+	path = selfie
+	url = https://github.com/breakingmalware/selfie
+[submodule "winafl"]
+	path = winafl
+	url = https://github.com/googleprojectzero/winafl
+[submodule "bbtrace"]
+	path = bbtrace
+	url = https://github.com/firodj/bbtrace
+[submodule "drAFL"]
+	path = drAFL
+	url = https://github.com/mxmssh/drAFL
+[submodule "drsancov"]
+	path = drsancov
+	url = https://github.com/googleprojectzero/drsancov
+[submodule "dynstruct"]
+	path = dynstruct
+	url = https://github.com/ampotos/dynstruct
+[submodule "findloop"]
+	path = findloop
+	url = https://github.com/secrary/findloop
+[submodule "drgat"]
+	path = drgat
+	url = https://github.com/ncatlin/drgat
