@@ -37,3 +37,6 @@
 [submodule "drgat"]
 	path = drgat
 	url = https://github.com/ncatlin/drgat
+[submodule "peekaboo"]
+	path = peekaboo
+	url = https://github.com/melynx/peekaboo
